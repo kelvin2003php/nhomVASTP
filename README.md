@@ -5,7 +5,7 @@ Phan Hai Phong
 MSSV : 2280602376
 Github : kelvin2003php
 
-Tran Ngoc Phuoc Sang 
+Nguyen Ngoc Phuoc Sang 
 MSSV : 2280618780
 Github : phuocsang29 
 
